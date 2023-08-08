@@ -1,4 +1,4 @@
-let guestlist = [ "Marcus Aurelius", "Lucius Annaeus Seneca", "Epictetus ", "Socrates"] ;
+export let guestlist = [ "Marcus Aurelius", "Lucius Annaeus Seneca", "Epictetus ", "Socrates"] ;
 
 for (let i = 0; i < guestlist.length; i++) {
     const guest = guestlist[i];
