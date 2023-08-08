@@ -1,2 +1,2 @@
 import  {guestlist} from './index.ts'
-console.log(guestlist)
+console.log(guestlist.length)
