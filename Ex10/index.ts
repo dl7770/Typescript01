@@ -3,8 +3,7 @@ let location01 = [
 ]; 
 console.log( 'Orginal location : ',  location01);
 ///sort
-let location02 = location01.
-slice().sort();
+let location02 = location01.slice().sort();
 console.log("Alphabetical order:", location02);
 console.log( 'Orginal location : ' , location01);
 
